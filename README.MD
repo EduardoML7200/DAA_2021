@@ -1,5 +1,9 @@
 # Soución de laberinto con BackTracking
 
+## La complejidad del código que hace backtracking es:
+1 + 2n + 2x + 2y + 2z 
+  
+
 ## Instalación:
 - Requiere de la Instalación del paquete [colored](https://pypi.org/project/colored/)
 - Requiere una terminal linux  ANSI/VT100, en windows funciona con emulador BASH de git. (GitBash)
@@ -7,7 +11,7 @@
 - se ejecuta de la manera:
 
 ```
-$python3 backtraking_p_a_p.py
+$py backtraking_p_a_p.py
 ```
 ## Salida
 ![Salida](salida.png)
